@@ -4,4 +4,4 @@ This project uses PySpark to perform sentiment analyis on Tweets. Three differen
 
 Logistic Regression emerged as the best classifier as it has the highest 10-fold cross validation accuracy of 99.26%.
 
-The dataset is the Tweets.csv file.The dataset contains tweets made by customers of US flights. There are a total of 14640 tweets and 15 features for every tweet.
+The dataset is the Tweets.csv file in the dataset folder.The dataset contains tweets made by customers of US flights. There are a total of 14640 tweets and 15 features for every tweet. The data was obtained from https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
